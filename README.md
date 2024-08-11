@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Faisal Aijaz Mallah</h1>
-<h3 align="center">System Engineer</h3>
+<h3 align="center">Software Tester</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisal-aijaz&label=Profile%20views&color=0e75b6&style=flat" alt="faisal-aijaz" /> </p>
 
-- 🌱 I’m currently learning **Devops (Development & Operations)**
+- 🌱 I’m currently learning **Automation Testing**
 
-- Ask me about **linux,Github,Git,Networking Etc**
+- Ask me about **SDLC,Test-Cases,Test-Scripts Etc**
 
 - 📫 How to reach me **faisal.imca@gmail.com**
 
