@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Faisal Aijaz Mallah</h1>
-<h3 align="center">Software Tester</h3>
+<h3 align="center">Aspiring Software Developer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisal-aijaz&label=Profile%20views&color=0e75b6&style=flat" alt="faisal-aijaz" /> </p>
 
-- 🌱 I’m currently learning **Automation Testing**
+- 🌱 I’m currently learning **Web Devlopment**
 
-- Ask me about **SDLC,Test-Cases,Test-Scripts Etc**
+- Ask me about **HTML, CSS, JAVASCRIPT, MYSQL ,ASP.NETCORE Etc**
 
-- 📫 How to reach me **faisal.imca@gmail.com**
+- 📫 How to reach me **faesalaijaz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
